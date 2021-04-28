@@ -17,6 +17,7 @@ License v3.01.
 [![Build status](https://travis-ci.org/php/php-src.svg?branch=master)](https://travis-ci.org/php/php-src)
 [![Build status](https://ci.appveyor.com/api/projects/status/meyur6fviaxgdwdy?svg=true)](https://ci.appveyor.com/project/php/php-src)
 [![Build Status](https://dev.azure.com/phpazuredevops/php/_apis/build/status/php.php-src?branchName=PHP-7.4)](https://dev.azure.com/phpazuredevops/php/_build/latest?definitionId=1&branchName=PHP-7.4)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLucylililili%2Ftest111.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLucylililili%2Ftest111?ref=badge_shield)
 
 ## Documentation
 
@@ -132,3 +133,7 @@ contribute:
 
 For the list of people who've put work into PHP, please see the
 [PHP credits page](https://php.net/credits.php).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLucylililili%2Ftest111.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLucylililili%2Ftest111?ref=badge_large)
